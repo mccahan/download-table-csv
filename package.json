@@ -1,5 +1,5 @@
 {
-  "name": "download-table-csv",
+  "name": "get-table-csv",
   "version": "0.1.0",
   "description": "Downloads a table from a remote URL as a CSV file",
   "bin": "./index.js",
