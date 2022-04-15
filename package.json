@@ -1,0 +1,32 @@
+{
+  "name": "download-table-csv",
+  "version": "0.1.0",
+  "description": "Downloads a table from a remote URL as a CSV file",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mccahan/download-table-csv.git"
+  },
+  "keywords": [
+    "csv",
+    "wget",
+    "table",
+    "data"
+  ],
+  "author": "Ryan McCahan <ryan@mccahan.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mccahan/download-table-csv/issues"
+  },
+  "homepage": "https://github.com/mccahan/download-table-csv#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "commander": "^9.2.0",
+    "fast-csv": "^4.3.6",
+    "jsdom": "^19.0.0",
+    "string-strip-html": "^8.3.0"
+  }
+}
