@@ -1,6 +1,6 @@
 {
   "name": "get-table-csv",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Downloads a table from a remote URL as a CSV file",
   "bin": "./index.js",
   "scripts": {
